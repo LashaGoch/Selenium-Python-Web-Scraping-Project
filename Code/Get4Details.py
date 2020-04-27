@@ -111,8 +111,6 @@ for index, row in df.iterrows():
     time.sleep(1)    
     myDf = getCardDetails(country, card_url)
     df2 = df2.append(myDf, ignore_index=True)
-    if (index == 99): # We limit the iteration to 100 and not more
-        break
     
 # Printing our new Data Frame
 print("\n")
