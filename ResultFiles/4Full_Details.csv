@@ -1,0 +1,520 @@
+country,card_url,general,country_link,city,PM2.5,date,hour
+Afghanistan,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Kabul,US Diplomatic Post: Kabul,Afghanistan,"Kabul,",,,
+Afghanistan,https://openaq.org/#/location/Kabul,US Diplomatic Post: Kabul,Afghanistan,"Kabul,",23,4/26/2020,1:30
+Algeria,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Algiers,US Diplomatic Post: Algiers,Algeria,"Algiers,",11.9,4/26/2020,2:00
+Antigua and Barbuda,https://openaq.org/#/location/Algiers,Algiers,Antigua,"N/A,",21.1,3/17/2020,18:00
+Argentina,https://openaq.org/#/location/SPARTAN%20-%20CITEDEF,SPARTAN - CITEDEF,"Aires,",Buenos,18.1,4/15/2015,2:00
+Australia,https://openaq.org/#/location/CBD,CBD,Australia,"Adelaide,",4.9,4/26/2020,0:30
+Australia,https://openaq.org/#/location/Elizabeth,Elizabeth,Australia,"Adelaide,",9,1/18/2020,19:30
+Australia,https://openaq.org/#/location/Le%20Fevre%201,Le Fevre 1,Australia,"Adelaide,",1,4/26/2020,0:30
+Australia,https://openaq.org/#/location/Le%20Fevre%202,Le Fevre 2,Australia,"Adelaide,",0,4/26/2020,0:30
+Australia,https://openaq.org/#/location/Netley,Netley,Australia,"Adelaide,",5,4/26/2020,0:30
+Australia,https://openaq.org/#/location/Bairnsdale,Bairnsdale,Australia,"Bairnsdale,",10.3,2/20/2020,1:00
+Australia,https://openaq.org/#/location/Bright,Bright,Australia,"Bright,",6.9,2/20/2020,1:00
+Australia,https://openaq.org/#/location/Campbellfield,Campbellfield,Australia,"Campbellfield,",6.1,4/24/2020,13:00
+Australia,https://openaq.org/#/location/Civic,Civic,Australia,"Canberra,",9.17,4/25/2020,22:00
+Australia,https://openaq.org/#/location/Florey,Florey,Australia,"Canberra,",12.84,4/25/2020,22:00
+Australia,https://openaq.org/#/location/Monash,Monash,Australia,"Canberra,",9.47,4/25/2020,22:00
+Australia,https://openaq.org/#/location/Cann%20River,Cann River,"River,",Cann,3.2,2/17/2020,2:00
+Australia,https://openaq.org/#/location/Wyong,Wyong,"Coast,",Central,12.1,4/26/2020,2:00
+Australia,https://openaq.org/#/location/Blackwater,Blackwater,"Queensland,",Central,4.8,4/26/2020,2:00
+Austria,https://openaq.org/#/location/AT0ILL1,AT0ILL1,Austria,"Burgenland,",9.99,4/24/2020,12:00
+Austria,https://openaq.org/#/location/AT10001,AT10001,Austria,"Burgenland,",7.63725,4/24/2020,12:00
+Austria,https://openaq.org/#/location/AT2KA21,AT2KA21,Austria,"Kärnten,",11.635,4/24/2020,12:00
+Austria,https://openaq.org/#/location/AT2KA71,AT2KA71,Austria,"Kärnten,",7.335,4/24/2020,12:00
+Austria,https://openaq.org/#/location/AT2WO15,AT2WO15,Austria,"Kärnten,",14.645,4/24/2020,12:00
+Austria,https://openaq.org/#/location/AT30104,AT30104,Austria,"Niederösterreich,",12.5,4/24/2020,12:00
+Austria,https://openaq.org/#/location/AT30407,AT30407,Austria,"Niederösterreich,",16.5,4/24/2020,12:00
+Austria,https://openaq.org/#/location/AT31413,AT31413,Austria,"Niederösterreich,",17.5,4/24/2020,11:00
+Austria,https://openaq.org/#/location/AT31902,AT31902,Austria,"Niederösterreich,",17.5,4/24/2020,11:00
+Austria,https://openaq.org/#/location/AT32301,AT32301,Austria,"Niederösterreich,",10,4/24/2020,12:00
+Austria,https://openaq.org/#/location/AT32701,AT32701,Austria,"Niederösterreich,",21.5,4/24/2020,11:00
+Austria,https://openaq.org/#/location/AT0ENK1,AT0ENK1,Austria,"Oberösterreich,",15.5,4/18/2020,13:00
+Austria,https://openaq.org/#/location/AT0ZOE2,AT0ZOE2,Austria,"Oberösterreich,",9.25,4/24/2020,12:00
+Austria,https://openaq.org/#/location/AT4S108,AT4S108,Austria,"Oberösterreich,",7.9230003,4/24/2020,12:00
+Austria,https://openaq.org/#/location/AT4S125,AT4S125,Austria,"Oberösterreich,",7.9195,4/24/2020,12:00
+Bahrain,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Manama,US Diplomatic Post: Manama,Bahrain,"Manama,",68,4/26/2020,2:00
+Bangladesh,https://openaq.org/#/location/SPARTAN%20-%20Dhaka%20University,SPARTAN - Dhaka University,Bangladesh,"Dhaka,",6.4,9/21/2015,1:00
+Bangladesh,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Dhaka,US Diplomatic Post: Dhaka,Bangladesh,"Dhaka,",27,4/26/2020,1:00
+Belgium,https://openaq.org/#/location/BELAL01,BELAL01,Belgium,"Antwerpen,",49.5,4/24/2020,3:00
+Belgium,https://openaq.org/#/location/BELHB23,BELHB23,Belgium,"Antwerpen,",46,4/24/2020,3:00
+Belgium,https://openaq.org/#/location/BELSA04,BELSA04,Belgium,"Antwerpen,",46,4/24/2020,3:00
+Belgium,https://openaq.org/#/location/BETM802,BETM802,Belgium,"Antwerpen,",42.5,4/24/2020,3:00
+Belgium,https://openaq.org/#/location/BETN016,BETN016,Belgium,"Antwerpen,",27,4/24/2020,3:00
+Belgium,https://openaq.org/#/location/BETR801,BETR801,Belgium,"Antwerpen,",48,4/24/2020,3:00
+Belgium,https://openaq.org/#/location/BETR802,BETR802,Belgium,"Antwerpen,",44.5,4/24/2020,3:00
+Belgium,https://openaq.org/#/location/BETR803,BETR803,Belgium,"Antwerpen,",45.5,4/24/2020,3:00
+Belgium,https://openaq.org/#/location/BETR805,BETR805,Belgium,"Antwerpen,",44,4/24/2020,3:00
+Belgium,https://openaq.org/#/location/BETR811,BETR811,Belgium,"Antwerpen,",48,4/24/2020,3:00
+Belgium,https://openaq.org/#/location/BETR815,BETR815,Belgium,"Antwerpen,",19,1/4/2018,4:00
+Belgium,https://openaq.org/#/location/BETR817,BETR817,Belgium,"Antwerpen,",39.5,4/24/2020,3:00
+Belgium,https://openaq.org/#/location/BETR831,BETR831,Belgium,"Antwerpen,",42.5,4/24/2020,3:00
+Belgium,https://openaq.org/#/location/BETR834,BETR834,Belgium,"Antwerpen,",41,4/24/2020,3:00
+Belgium,https://openaq.org/#/location/BETN063,BETN063,"wallon,",Brabant,21.026,4/24/2020,3:00
+Bermuda,https://openaq.org/#/location/Rangoon,Rangoon,Bermuda,"N/A,",40,4/26/2020,1:30
+Bosnia and Herzegovina,https://openaq.org/#/location/Lukavac,Lukavac,Bosnia,"Lukavac,",5.9,4/26/2020,2:00
+Bosnia and Herzegovina,https://openaq.org/#/location/Manama,Manama,Bosnia,"N/A,",37,4/25/2020,23:00
+Bosnia and Herzegovina,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Sarajevo,US Diplomatic Post: Sarajevo,Bosnia,"Sarajevo,",15,4/26/2020,2:00
+Bosnia and Herzegovina,https://openaq.org/#/location/BKC,BKC,Bosnia,"Tuzla,",5.5,4/26/2020,2:00
+Bosnia and Herzegovina,https://openaq.org/#/location/Bukinje,Bukinje,Bosnia,"Tuzla,",10.9,4/26/2020,2:00
+Bosnia and Herzegovina,https://openaq.org/#/location/Skver,Skver,Bosnia,"Tuzla,",18.6,4/26/2020,2:00
+Bosnia and Herzegovina,https://openaq.org/#/location/%C5%BDivinice,Živinice,Bosnia,"Živinice,",11,4/26/2020,2:00
+Brazil,https://openaq.org/#/location/Campinas-V.Uni%C3%A3o,Campinas-V.União,Brazil,"Campinas,",30,10/27/2017,20:00
+Brazil,https://openaq.org/#/location/Guarulhos-Pa%C3%A7o%20Municipal,Guarulhos-Paço Municipal,Brazil,"Guarulhos,",37,10/27/2017,20:00
+Brazil,https://openaq.org/#/location/Guarulhos-Pimentas,Guarulhos-Pimentas,Brazil,"Guarulhos,",43,10/27/2017,20:00
+Brazil,https://openaq.org/#/location/Osasco,Osasco,Brazil,"Osasco,",98,10/18/2017,14:00
+Brazil,https://openaq.org/#/location/Piracicaba,Piracicaba,Brazil,"Piracicaba,",32,10/27/2017,20:00
+Brazil,https://openaq.org/#/location/Santos-Ponta%20da%20Praia,Santos-Ponta da Praia,Brazil,"Santos,",15,10/27/2017,20:00
+Brazil,https://openaq.org/#/location/S.Bernardo-Centro,S.Bernardo-Centro,Bernardo,São,38,10/27/2017,20:00
+Brazil,https://openaq.org/#/location/S%C3%A3o%20Jos%C3%A9%20Do%20Rio%20Preto,São José Do Rio Preto,José,São,15,10/27/2017,20:00
+Brazil,https://openaq.org/#/location/Grajau-Parelheiros,Grajau-Parelheiros,"Paulo,",Sao,0,10/26/2017,10:00
+Brazil,https://openaq.org/#/location/Pico%20do%20Jaragu%C3%A1,Pico do Jaraguá,"Paulo,",Sao,59,10/27/2017,20:00
+Brazil,https://openaq.org/#/location/Ribeir%C3%A3o%20Preto-Centro,Ribeirão Preto-Centro,"Paulo,",Sao,28,10/27/2017,20:00
+Brazil,https://openaq.org/#/location/S.Jos%C3%A9%20dos%20Campos-Jd.Sat%C3%A9lite,S.José dos Campos-Jd.Satélite,"Paulo,",Sao,21,10/27/2017,20:00
+Brazil,https://openaq.org/#/location/Cid.Universit%C3%A1ria-USP-Ipen,Cid.Universitária-USP-Ipen,"Paulo,",São,50,10/13/2017,17:00
+Brazil,https://openaq.org/#/location/Congonhas,Congonhas,"Paulo,",São,39,10/27/2017,20:00
+Brazil,https://openaq.org/#/location/Ibirapuera,Ibirapuera,"Paulo,",São,31,10/27/2017,20:00
+Bulgaria,https://openaq.org/#/location/Dhaka,SPARTAN - Dhaka University,Bangladesh,"Dhaka,",6.4,9/21/2015,1:00
+Bulgaria,https://openaq.org/#/location/BG0075A,BG0075A,Bulgaria,"Варна,",4.91,4/26/2020,0:00
+Bulgaria,https://openaq.org/#/location/BG0045A,BG0045A,Bulgaria,"Русе,",14.43,4/26/2020,0:00
+Canada,https://openaq.org/#/location/Athabasca%20Valley,Athabasca Valley,Canada,"ALBERTA,",6.4,4/25/2020,20:00
+Canada,https://openaq.org/#/location/Beaverlodge,Beaverlodge,Canada,"ALBERTA,",1.7,4/26/2020,1:00
+Canada,https://openaq.org/#/location/Bruderheim,Bruderheim,Canada,"ALBERTA,",6.6,4/25/2020,23:00
+Canada,https://openaq.org/#/location/Calgary%20Central2,Calgary Central2,Canada,"ALBERTA,",2.4,4/26/2020,1:00
+Canada,https://openaq.org/#/location/Calgary%20Northwest,Calgary Northwest,Canada,"ALBERTA,",7.7,4/26/2020,1:00
+Canada,https://openaq.org/#/location/Caroline,Caroline,Canada,"ALBERTA,",1.2,4/26/2020,1:00
+Canada,https://openaq.org/#/location/Cold%20Lake%20South,Cold Lake South,Canada,"ALBERTA,",7.7,10/29/2018,16:00
+Canada,https://openaq.org/#/location/Edmonton%20Central,Edmonton Central,Canada,"ALBERTA,",4.6,4/26/2020,1:00
+Canada,https://openaq.org/#/location/Edmonton%20East,Edmonton East,Canada,"ALBERTA,",5.4,4/26/2020,1:00
+Canada,https://openaq.org/#/location/Edmonton%20South,Edmonton South,Canada,"ALBERTA,",3.8,4/26/2020,1:00
+Canada,https://openaq.org/#/location/Edmonton%20Woodcroft,Edmonton Woodcroft,Canada,"ALBERTA,",5,4/26/2020,1:00
+Canada,https://openaq.org/#/location/Elk%20Island,Elk Island,Canada,"ALBERTA,",3.7,4/25/2020,23:00
+Canada,https://openaq.org/#/location/Fort%20Chipewyan,Fort Chipewyan,Canada,"ALBERTA,",3.3,4/24/2020,12:00
+Canada,https://openaq.org/#/location/Fort%20McKay,Fort McKay,Canada,"ALBERTA,",9.8,4/26/2020,1:00
+Canada,https://openaq.org/#/location/Fort%20Saskatchewan,Fort Saskatchewan,Canada,"ALBERTA,",4.6,4/26/2020,1:00
+Chile,https://openaq.org/#/location/Alto%20Hospicio,Alto Hospicio,"Hospicio,",Alto,12,4/26/2020,2:00
+Chile,https://openaq.org/#/location/Antofagasta,Antofagasta,Chile,"Antofagasta,",5,4/26/2020,2:00
+Chile,https://openaq.org/#/location/Arica,Arica,Chile,"Arica,",20.57,4/26/2020,2:00
+Chile,https://openaq.org/#/location/Vialidad,Vialidad,Chile,"Aysén,",1,11/3/2017,21:00
+Chile,https://openaq.org/#/location/Progreso,Progreso,Chile,"Cabrero,",0,6/28/2017,17:00
+Chile,https://openaq.org/#/location/Club%20Deportivo%2023%20de%20Marzo,Club Deportivo 23 de Marzo,Chile,"Calama,",10.27,4/26/2020,2:00
+Chile,https://openaq.org/#/location/Colegio%20Pedro%20Vergara%20Keller,Colegio Pedro Vergara Keller,Chile,"Calama,",1.65,4/19/2020,14:00
+Chile,https://openaq.org/#/location/Estaci%C3%B3n%20Centro,Estación Centro,Chile,"Calama,",0,2/9/2019,2:00
+Chile,https://openaq.org/#/location/Romeral,Romeral,Chile,"Catemu,",0,6/28/2017,18:00
+Chile,https://openaq.org/#/location/Santa%20Margarita,Santa Margarita,Chile,"Catemu,",0,6/28/2017,15:00
+Chile,https://openaq.org/#/location/Cerrillos,Cerrillos,Chile,"Cerrillos,",18,3/19/2020,20:00
+China,https://openaq.org/#/location/Anqing%20Lian%20Fu%20Hua%20Yuan,Anqing Lian Fu Hua Yuan,China,"Anqing,",6,8/16/2018,6:00
+China,https://openaq.org/#/location/Beijing%20US%20Embassy,Beijing US Embassy,China,"Beijing,",8,4/25/2020,22:00
+China,https://openaq.org/#/location/SPARTAN%20-%20Tsinghua%20University,SPARTAN - Tsinghua University,China,"Beijing,",173,10/15/2015,18:00
+China,https://openaq.org/#/location/Chengdu,Chengdu,Switzerland,"N/A,",52,4/25/2020,22:00
+China,https://openaq.org/#/location/Guangzhou,Guangzhou,Switzerland,"N/A,",60,4/25/2020,22:00
+China,https://openaq.org/#/location/Shanghai,Shanghai,Switzerland,"N/A,",28,4/26/2020,2:00
+China,https://openaq.org/#/location/Shenyang,Shenyang,Switzerland,"N/A,",92,4/25/2020,22:00
+China,https://openaq.org/#/location/%E6%96%B0%E5%BB%BA%E3%80%80,新建,China,"七台河市,",33,1/7/2020,10:00
+China,https://openaq.org/#/location/%E6%96%B0%E5%BB%BA%E7%9F%BF%E5%B9%BF%E5%9C%BA,新建矿广场,China,"七台河市,",27,4/26/2020,2:00
+China,https://openaq.org/#/location/%E7%8E%AF%E4%BF%9D%E5%B1%80,环保局,China,"七台河市,",,,
+China,https://openaq.org/#/location/%E8%91%AB%E5%A4%B4%E6%B2%9F(%E5%AF%B9%E7%85%A7%E7%82%B9),葫头沟(对照点),China,"七台河市,",17,4/26/2020,2:00
+China,https://openaq.org/#/location/%E6%B2%B3%E4%B8%9C%E5%AD%90%E7%AB%99,河东子站,China,"三亚市,",10,4/26/2020,2:00
+China,https://openaq.org/#/location/%E6%B2%B3%E8%A5%BF%E5%AD%90%E7%AB%99,河西子站,China,"三亚市,",12,4/26/2020,2:00
+China,https://openaq.org/#/location/%E4%B8%89%E5%85%83%E5%8C%BA%E6%94%BF%E5%BA%9C,三元区政府,China,"三明市,",49,4/26/2020,2:00
+China,https://openaq.org/#/location/%E4%B8%89%E6%98%8E%E4%BA%8C%E4%B8%AD,三明二中,China,"三明市,",36,4/26/2020,2:00
+Colombia,https://openaq.org/#/location/BAR-TORR%20-%20Barbosa%20-%20Torre%20Social,BAR-TORR - Barbosa - Torre Social,Colombia,"Barbosa,",-9999,4/26/2020,2:00
+Colombia,https://openaq.org/#/location/BEL-FEVE%20-%20Bello%20-%20I.E.%20Fernando%20V%C3%A9lez,BEL-FEVE - Bello - I.E. Fernando Vélez,Colombia,"Bello,",-9999,4/26/2020,2:00
+Colombia,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Bogota,US Diplomatic Post: Bogota,Colombia,"Bogota,",13,4/26/2020,2:00
+Colombia,https://openaq.org/#/location/CAL-JOAR%20-%20Caldas%20-%20E%20U%20Joaqu%C3%ADn%20Aristizabal,CAL-JOAR - Caldas - E U Joaquín Aristizabal,Colombia,"Caldas,",-9999,4/26/2020,2:00
+Colombia,https://openaq.org/#/location/COP-CVID%20-%20Copacabana%20-%20Ciudadela%20Educativa%20La%20Vida,COP-CVID - Copacabana - Ciudadela Educativa La Vida,Colombia,"Copacabana,",16.6096,4/26/2020,2:00
+Colombia,https://openaq.org/#/location/ENV-HOSP%20-%20Envigado%20-%20E.S.E.%20Santa%20Gertrudis,ENV-HOSP - Envigado - E.S.E. Santa Gertrudis,Colombia,"Envigado,",-9999,4/26/2020,2:00
+Colombia,https://openaq.org/#/location/ITA-CONC%20-%20Itag%C3%BC%C3%AD%20-%20I.E.%20Concejo%20Municipal%20de%20Itag%C3%BC%C3%AD,ITA-CONC - Itagüí - I.E. Concejo Municipal de Itagüí,Colombia,"Itagüí,",19,4/26/2020,2:00
+Colombia,https://openaq.org/#/location/EST-HOSP%20-%20La%20Estrella%20-%20Hospital,EST-HOSP - La Estrella - Hospital,"Estrella,",La,21,4/26/2020,2:00
+Colombia,https://openaq.org/#/location/CAL-LASA%20-%20Caldas%20-%20Corporacion%20Universitaria%20Lasallista,CAL-LASA - Caldas - Corporacion Universitaria Lasallista,Colombia,"Medellin,",11,4/26/2020,2:00
+Colombia,https://openaq.org/#/location/CEN-TRAF%20-%20Estaci%C3%B3n%20Tr%C3%A1fico%20Centro,CEN-TRAF - Estación Tráfico Centro,Colombia,"Medellin,",19,4/26/2020,2:00
+Colombia,https://openaq.org/#/location/GIR-SOSN%20-%20Girardota%20-%20S.O.S%20Aburr%C3%A1%20Norte,GIR-SOSN - Girardota - S.O.S Aburrá Norte,Colombia,"Medellin,",16,4/26/2020,2:00
+Colombia,https://openaq.org/#/location/ITA-CJUS%20-%20Itag%C3%BC%C3%AD%20-%20Casa%20de%20Justicia%20Itag%C3%BC%C3%AD,ITA-CJUS - Itagüí - Casa de Justicia Itagüí,Colombia,"Medellin,",17,4/26/2020,2:00
+Costa Rica,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20San%20Jose,US Diplomatic Post: San Jose,"Jose,",San,12,4/26/2020,2:00
+Croatia,https://openaq.org/#/location/HR0010A,HR0010A,Croatia,"Brodsko-posavska,",27.3,4/25/2020,23:00
+Croatia,https://openaq.org/#/location/HR0020A,HR0020A,Croatia,"Dubrovacko-neretvanska,",1,12/31/2019,23:00
+Croatia,https://openaq.org/#/location/HR0015A,HR0015A,Croatia,"Istarska,",11.5,4/25/2020,23:00
+Croatia,https://openaq.org/#/location/HR0012A,HR0012A,Croatia,"Krapinsko-zagorska,",8.1,4/25/2020,23:00
+Croatia,https://openaq.org/#/location/HR0013A,HR0013A,Croatia,"Licko-senjska,",12.1,4/25/2020,23:00
+Croatia,https://openaq.org/#/location/HR0011A,HR0011A,Croatia,"Osjecko-baranjska,",6,4/25/2020,23:00
+Curaçao,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Curacao,US Diplomatic Post: Curacao,Curaçao,"Curacao,",6,4/26/2020,2:00
+Czech Republic,https://openaq.org/#/location/CZ0ALIB,CZ0ALIB,město,Hlavní,17,4/26/2020,0:00
+Czech Republic,https://openaq.org/#/location/CZ0ARIE,CZ0ARIE,město,Hlavní,10,4/26/2020,0:00
+Czech Republic,https://openaq.org/#/location/CZ0ASMI,CZ0ASMI,město,Hlavní,7,4/12/2019,8:00
+Czech Republic,https://openaq.org/#/location/CZ0ASTO,CZ0ASTO,město,Hlavní,15,4/26/2020,0:00
+Czech Republic,https://openaq.org/#/location/CZ0CCBD,CZ0CCBD,Czech,"Jihočeský,",16,4/26/2020,0:00
+Czech Republic,https://openaq.org/#/location/CZ0BBDN,CZ0BBDN,Czech,"Jihomoravský,",11,4/26/2020,0:00
+Czech Republic,https://openaq.org/#/location/CZ0BBNI,CZ0BBNI,Czech,"Jihomoravský,",4,4/26/2020,0:00
+Czech Republic,https://openaq.org/#/location/CZ0BBNV,CZ0BBNV,Czech,"Jihomoravský,",12,4/26/2020,0:00
+Côte d'Ivoire,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Abidjan,US Diplomatic Post: Abidjan,Côte,"Abidjan,",11,4/26/2020,2:00
+Estonia,https://openaq.org/#/location/EE0018A,EE0018A,Estonia,"Harjumaa,",1.722,4/26/2020,3:00
+Estonia,https://openaq.org/#/location/EE0019A,EE0019A,Estonia,"Ida-Virumaa,",1.846,4/26/2020,3:00
+Estonia,https://openaq.org/#/location/EE0016A,EE0016A,Estonia,"Jõgevamaa,",3.012,4/26/2020,3:00
+Estonia,https://openaq.org/#/location/EE0009R,EE0009R,Estonia,"Lääne-Virumaa,",2.012,4/26/2020,3:00
+Estonia,https://openaq.org/#/location/EE0011R,EE0011R,Estonia,"Saaremaa,",0,4/26/2020,3:00
+Estonia,https://openaq.org/#/location/EE0021A,EE0021A,Estonia,"Tartumaa,",12.81,4/26/2020,3:00
+Ethiopia,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Addis%20Ababa%20Central,US Diplomatic Post: Addis Ababa Central,"Ababa,",Addis,6,4/26/2020,2:00
+Ethiopia,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Addis%20Ababa%20School,US Diplomatic Post: Addis Ababa School,"Ababa,",Addis,-999,4/26/2020,2:00
+Finland,https://openaq.org/#/location/FI00893,FI00893,Finland,"Kymenlaakso,",4.946503,4/26/2020,0:00
+Finland,https://openaq.org/#/location/FI00446,FI00446,"Ostrobothnia,",Northern,2.2089567,4/26/2020,1:00
+Finland,https://openaq.org/#/location/FI00363,FI00363,"Savonia,",Northern,6.4,12/10/2018,0:00
+Finland,https://openaq.org/#/location/FI00586,FI00586,Finland,"Ostrobothnia,",2,4/26/2020,1:00
+Finland,https://openaq.org/#/location/FI00801,FI00801,Finland,"Pirkanmaa,",4.4106975,4/26/2020,1:00
+Finland,https://openaq.org/#/location/FI00838,FI00838,Finland,"Pirkanmaa,",7.033203,4/26/2020,1:00
+Finland,https://openaq.org/#/location/FI00280,FI00280,"Karelia,",South,3,4/26/2020,1:00
+Finland,https://openaq.org/#/location/FI00606,FI00606,"Karelia,",South,,,
+Finland,https://openaq.org/#/location/FI00349,FI00349,"Finland,",Southwest,2.4808607,4/26/2020,1:00
+Finland,https://openaq.org/#/location/FI00208,FI00208,Finland,"Uusimaa,",6.060528,4/26/2020,1:00
+Finland,https://openaq.org/#/location/FI00370,FI00370,Finland,"Uusimaa,",5.294317,4/26/2020,1:00
+Finland,https://openaq.org/#/location/FI00425,FI00425,Finland,"Uusimaa,",4.671641,4/26/2020,1:00
+Finland,https://openaq.org/#/location/FI00564,FI00564,Finland,"Uusimaa,",4.514,4/26/2020,1:00
+Finland,https://openaq.org/#/location/FI00761,FI00761,Finland,"Uusimaa,",3.196193,1/2/2020,6:00
+France,https://openaq.org/#/location/FR33305,FR33305,France,"Ain,",6.3,4/26/2020,0:00
+France,https://openaq.org/#/location/Evreux%20%20Boulevard%20de%20Normandie,Evreux Boulevard de Normandie,"NORMAND,",AIR,38.5,12/4/2016,19:00
+France,https://openaq.org/#/location/Maison%20Parc%20Brotonne,Maison Parc Brotonne,"NORMAND,",AIR,10.58,7/18/2017,22:00
+France,https://openaq.org/#/location/Rouen%20Le%20Conquerant,Rouen Le Conquerant,"NORMAND,",AIR,35.75,12/5/2016,18:00
+France,https://openaq.org/#/location/Valence%20Trafic,Valence Trafic,RHONE,AIR,14.75,4/20/2017,16:00
+France,https://openaq.org/#/location/FR18042,FR18042,France,"Aisne,",,,
+France,https://openaq.org/#/location/FR18080,FR18080,France,"Aisne,",22.5,4/26/2020,0:00
+France,https://openaq.org/#/location/FR07022,FR07022,France,"Allier,",4.5,4/26/2020,0:00
+France,https://openaq.org/#/location/FR24018,FR24018,France,"Alpes-de-Haute-Provence,",4.5,4/20/2020,22:00
+France,https://openaq.org/#/location/FR24039,FR24039,France,"Alpes-de-Haute-Provence,",10.3,4/25/2020,23:00
+France,https://openaq.org/#/location/FR24035,FR24035,France,"Alpes-Maritimes,",4.7,4/25/2020,23:00
+France,https://openaq.org/#/location/FR24036,FR24036,France,"Alpes-Maritimes,",4.7,4/26/2020,0:00
+Germany,https://openaq.org/#/location/DEBY001,DEBY001,Germany,"Bayern,",11.15,4/24/2020,3:00
+Germany,https://openaq.org/#/location/DEBY002,DEBY002,Germany,"Bayern,",14.89,4/24/2020,3:00
+Germany,https://openaq.org/#/location/DEBY004,DEBY004,Germany,"Bayern,",6.68,4/24/2020,3:00
+Germany,https://openaq.org/#/location/DEBY005,DEBY005,Germany,"Bayern,",8.39,4/24/2020,3:00
+Germany,https://openaq.org/#/location/DEBY007,DEBY007,Germany,"Bayern,",19.6,4/24/2020,3:00
+Germany,https://openaq.org/#/location/DEBY009,DEBY009,Germany,"Bayern,",13.04,4/24/2020,3:00
+Germany,https://openaq.org/#/location/DEBY012,DEBY012,Germany,"Bayern,",8.02,4/24/2020,3:00
+Germany,https://openaq.org/#/location/DEBY013,DEBY013,Germany,"Bayern,",10.65,4/24/2020,3:00
+Germany,https://openaq.org/#/location/DEBY014,DEBY014,Germany,"Bayern,",9.95,4/24/2020,3:00
+Germany,https://openaq.org/#/location/DEBY021,DEBY021,Germany,"Bayern,",16.17,4/24/2020,3:00
+Germany,https://openaq.org/#/location/DEBY028,DEBY028,Germany,"Bayern,",13.58,4/24/2020,3:00
+Germany,https://openaq.org/#/location/DEBY031,DEBY031,Germany,"Bayern,",10.77,4/24/2020,3:00
+Germany,https://openaq.org/#/location/DEBY035,DEBY035,Germany,"Bayern,",15.24,4/24/2020,3:00
+Germany,https://openaq.org/#/location/DEBY037,DEBY037,Germany,"Bayern,",16.94,4/24/2020,3:00
+Germany,https://openaq.org/#/location/DEBY039,DEBY039,Germany,"Bayern,",13.11,4/24/2020,3:00
+Ghana,https://openaq.org/#/location/ADA%20-%20Asylum%20Down,ADA - Asylum Down,Ghana,"Accra,",28.81,8/17/2008,8:24
+Ghana,https://openaq.org/#/location/ADEPA%20-%20Asylum%20Down,ADEPA - Asylum Down,Ghana,"Accra,",21.65,4/8/2007,8:54
+Ghana,https://openaq.org/#/location/ADT%20-%20Asylum%20Down,ADT - Asylum Down,Ghana,"Accra,",33.07,4/8/2007,8:20
+Ghana,https://openaq.org/#/location/ELA%20-%20East%20Legon,ELA - East Legon,Ghana,"Accra,",17.92,8/17/2008,9:20
+Ghana,https://openaq.org/#/location/ELC%20-%20East%20Legon,ELC - East Legon,Ghana,"Accra,",11.41,9/5/2007,10:51
+Ghana,https://openaq.org/#/location/ELT%20-%20East%20Legon,ELT - East Legon,Ghana,"Accra,",19.4,9/5/2007,8:50
+Ghana,https://openaq.org/#/location/JTA%20-%20Jamestown,JTA - Jamestown,Ghana,"Accra,",66.64,8/17/2008,9:15
+Ghana,https://openaq.org/#/location/JTC%20-%20Jamestown,JTC - Jamestown,Ghana,"Accra,",51.77,2/9/2007,8:00
+Ghana,https://openaq.org/#/location/JTT%20-%20Jamestown,JTT - Jamestown,Ghana,"Accra,",14.91,7/11/2007,9:25
+Ghana,https://openaq.org/#/location/NMA%20-%20Nima,NMA - Nima,Ghana,"Accra,",24.66,8/17/2008,10:08
+Ghana,https://openaq.org/#/location/NMT%20-%20Nima,NMT - Nima,Ghana,"Accra,",30.59,8/11/2008,9:03
+Greece,https://openaq.org/#/location/GR0003A,GR0003A,Greece,"ΑΤΤΙΚΗ,",16,4/26/2020,1:00
+Greece,https://openaq.org/#/location/GR0030A,GR0030A,Greece,"ΑΤΤΙΚΗ,",11,4/26/2020,1:00
+Greece,https://openaq.org/#/location/GR0035A,GR0035A,Greece,"ΑΤΤΙΚΗ,",29,4/26/2020,1:00
+Greece,https://openaq.org/#/location/GR0037A,GR0037A,Greece,"ΑΤΤΙΚΗ,",12,4/26/2020,0:00
+Greece,https://openaq.org/#/location/GR0039A,GR0039A,Greece,"ΑΤΤΙΚΗ,",13,4/26/2020,1:00
+Greece,https://openaq.org/#/location/GR0048A,GR0048A,"ΕΛΛΑΔΑ,",ΔΥΤΙΚΗ,12,4/26/2020,1:00
+Greece,https://openaq.org/#/location/GR0001A,GR0001A,Greece,"ΘΕΣΣΑΛΙΑ,",16,4/26/2020,1:00
+Greece,https://openaq.org/#/location/GR0018A,GR0018A,"ΜΑΚΕΔΟΝΙΑ,",ΚΕΝΤΡΙΚΗ,25,4/26/2020,1:00
+Greece,https://openaq.org/#/location/GR0047A,GR0047A,"ΜΑΚΕΔΟΝΙΑ,",ΚΕΝΤΡΙΚΗ,10,4/26/2020,1:00
+Guatemala,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Guatemala%20City,US Diplomatic Post: Guatemala City,"City,",Guatemala,56,4/26/2020,0:00
+Guatemala,https://openaq.org/#/location/Guatemala%20City,US Diplomatic Post: Guatemala City,"City,",Guatemala,56,4/26/2020,0:00
+Hong Kong,https://openaq.org/#/location/Causeway%20Bay,Causeway Bay,"Bay,",Causeway,52.1,4/26/2020,1:00
+Hong Kong,https://openaq.org/#/location/Central,Calgary Central2,Canada,"ALBERTA,",2.4,4/26/2020,1:00
+Hong Kong,https://openaq.org/#/location/Central%2FWestern,Central/Western,&,Central,48.7,4/26/2020,1:00
+Hong Kong,https://openaq.org/#/location/Eastern,Eastern,Hong,"Eastern,",34.7,4/26/2020,1:00
+Hong Kong,https://openaq.org/#/location/Kwun%20Tong,Kwun Tong,Hong,"Kowloon,",21,4/26/2020,1:00
+Hong Kong,https://openaq.org/#/location/Mong%20Kok,Mong Kok,Hong,"Kowloon,",54.4,4/26/2020,1:00
+Hong Kong,https://openaq.org/#/location/Sham%20Shui%20Po,Sham Shui Po,Hong,"Kowloon,",31.4,4/26/2020,1:00
+Hong Kong,https://openaq.org/#/location/Kwai%20Chung,Kwai Chung,"Territories,",New,25,4/26/2020,1:00
+Hong Kong,https://openaq.org/#/location/Sha%20Tin,Sha Tin,"Territories,",New,43.3,4/26/2020,1:00
+Hong Kong,https://openaq.org/#/location/Tai%20Po,Tai Po,"Territories,",New,54.1,4/26/2020,1:00
+Hong Kong,https://openaq.org/#/location/Tsuen%20Wan,Tsuen Wan,"Territories,",New,38.8,4/26/2020,1:00
+Hong Kong,https://openaq.org/#/location/Tung%20Chung,Tung Chung,"Territories,",New,57.5,4/26/2020,1:00
+Hong Kong,https://openaq.org/#/location/Yuen%20Long,Yuen Long,"Territories,",New,29.6,4/26/2020,1:00
+Hong Kong,https://openaq.org/#/location/Tuen%20Mun,Tuen Mun,Hong,"N.T.,",62.2,4/26/2020,1:00
+Hong Kong,https://openaq.org/#/location/Tseung%20Kwan%20O,Tseung Kwan O,"Kung,",Sai,32.4,4/26/2020,1:00
+Hungary,https://openaq.org/#/location/HU0057A,HU0057A,Hungary,"Csongrád,",22.289045,4/26/2020,2:00
+Iceland,https://openaq.org/#/location/Grundartangi%20Gr%C3%B6f,Grundartangi Gröf,Iceland,"Grundartangi,",1.5686,4/26/2020,2:00
+Iceland,https://openaq.org/#/location/Grundartangi%20Kr%C3%ADuvar%C3%B0a,Grundartangi Kríuvarða,Iceland,"Grundartangi,",4.149,4/26/2020,1:00
+Iceland,https://openaq.org/#/location/Hafnarfj%C3%B6r%C3%B0ur%20Hvaleyrarholt,Hafnarfjörður Hvaleyrarholt,Iceland,"Hafnarfjörður,",1.8754,4/26/2020,2:00
+Iceland,https://openaq.org/#/location/PCC%20nor%C3%B0ur,PCC norður,Iceland,"Húsavík,",0.380859,4/26/2020,0:00
+Iceland,https://openaq.org/#/location/PCC%20su%C3%B0ur,PCC suður,Iceland,"Húsavík,",0,4/26/2020,0:00
+Iceland,https://openaq.org/#/location/K%C3%B3pavogur%20Dalsm%C3%A1ri,Kópavogur Dalsmári,Iceland,"Kópavogur,",2.11583,4/26/2020,2:00
+Iceland,https://openaq.org/#/location/Reykjavik%20Grensas,Reykjavik Grensas,Iceland,"Reykjavík,",6,4/26/2020,2:00
+Iceland,https://openaq.org/#/location/Reykjavik%20Husdyragardurinn,Reykjavik Husdyragardurinn,Iceland,"Reykjavík,",11.1662,4/26/2020,2:00
+India,https://openaq.org/#/location/Sanjay%20Palace%2C%20Agra%20-%20UPPCB,"Sanjay Palace, Agra - UPPCB",India,"Agra,",66,4/26/2020,2:30
+India,https://openaq.org/#/location/Maninagar%2C%20Ahmedabad%20-%20GPCB,"Maninagar, Ahmedabad - GPCB",India,"Ahmedabad,",33.4,7/11/2019,13:00
+India,https://openaq.org/#/location/Sikulpuikawn%2C%20Aizawl%20-%20Mizoram%20PCB,"Sikulpuikawn, Aizawl - Mizoram PCB",India,"Aizawl,",-1,4/24/2020,13:15
+India,https://openaq.org/#/location/Civil%20Lines%2C%20%20Ajmer%20-%20RSPCB,"Civil Lines, Ajmer - RSPCB",India,"Ajmer,",10.6,4/26/2020,2:15
+India,https://openaq.org/#/location/Moti%20Doongri%2C%20Alwar%20-%20RSPCB,"Moti Doongri, Alwar - RSPCB",India,"Alwar,",43.48,7/11/2019,13:00
+India,https://openaq.org/#/location/Secretariat%2C%20Amaravati%20-%20APPCB,"Secretariat, Amaravati - APPCB",India,"Amaravati,",18,7/11/2019,13:15
+India,https://openaq.org/#/location/Patti%20Mehar%2C%20Ambala%20-%20HSPCB,"Patti Mehar, Ambala - HSPCB",",",Ambala,38.2,4/24/2020,10:00
+India,https://openaq.org/#/location/Golden%20Temple%2C%20Amritsar%20-%20PPCB,"Golden Temple, Amritsar - PPCB",India,"Amritsar,",0,7/11/2019,13:00
+India,https://openaq.org/#/location/GIDC%2C%20Ankleshwar%20-%20GPCB,"GIDC, Ankleshwar - GPCB",India,"Ankleshwar,",36.75,7/11/2019,13:00
+India,https://openaq.org/#/location/Asansol%20Court%20Area%2C%20Asansol%20-%20WBPCB,"Asansol Court Area, Asansol - WBPCB",India,"Asansol,",26.62,4/26/2020,2:15
+India,https://openaq.org/#/location/More%20Chowk%20Waluj%2C%20Aurangabad%20-%20MPCB,"More Chowk Waluj, Aurangabad - MPCB",India,"Aurangabad,",11.26,4/26/2020,2:15
+India,https://openaq.org/#/location/Vidayagiri%2C%20Bagalkot%20-%20KSPCB,"Vidayagiri, Bagalkot - KSPCB",India,"Bagalkot,",19,4/24/2020,10:45
+India,https://openaq.org/#/location/New%20Collectorate%2C%20Baghpat%20-%20UPPCB,"New Collectorate, Baghpat - UPPCB",India,"Baghpat,",51,7/11/2019,13:15
+India,https://openaq.org/#/location/Arya%20Nagar%2C%20Bahadurgarh%20-%20HSPCB,"Arya Nagar, Bahadurgarh - HSPCB",",",Bahadurgarh,69.13,7/11/2019,12:45
+India,https://openaq.org/#/location/Nathu%20Colony%2C%20Ballabgarh%20-%20HSPCB,"Nathu Colony, Ballabgarh - HSPCB",India,"Ballabgarh,",126.56,7/11/2019,13:00
+Indonesia,https://openaq.org/#/location/SPARTAN%20-%20ITB%20Bandung,SPARTAN - ITB Bandung,Indonesia,"Bandung,",8.8,9/13/2015,3:00
+Indonesia,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Jakarta%20Central,US Diplomatic Post: Jakarta Central,Indonesia,"Jakarta,",89,4/26/2020,2:00
+Indonesia,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Jakarta%20South,US Diplomatic Post: Jakarta South,Indonesia,"Jakarta,",98,4/26/2020,1:00
+Iraq,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Baghdad,US Diplomatic Post: Baghdad,Iraq,"Baghdad,",24,4/25/2020,23:00
+Ireland,https://openaq.org/#/location/IE0110A,IE0110A,"City,",Cork,21.0075,4/26/2020,1:00
+Ireland,https://openaq.org/#/location/IE0028A,,,,44.678986,4/26/2020,1:00
+Ireland,https://openaq.org/#/location/IE003AP,,,,31.0325,4/26/2020,1:00
+Ireland,https://openaq.org/#/location/IE0137A,IE0137A,Ireland,"Limerick,",28.1,3/3/2018,1:00
+Ireland,https://openaq.org/#/location/IE0142A,IE0142A,Ireland,"Longford,",6.7,6/3/2018,2:00
+Israel,https://openaq.org/#/location/SPARTAN%20-%20Weizmann%20Institute,SPARTAN - Weizmann Institute,Israel,"Rehovot,",23.4,10/17/2015,7:00
+Italy,https://openaq.org/#/location/BALLIRANA,BALLIRANA,Italy,"ALFONSINE,",19,4/25/2020,1:00
+Italy,https://openaq.org/#/location/BESENZONE,BESENZONE,Italy,"BESENZONE,",20,4/25/2020,1:00
+Italy,https://openaq.org/#/location/GIARDINI%20MARGHERITA,GIARDINI MARGHERITA,Italy,"BOLOGNA,",13,4/25/2020,1:00
+Italy,https://openaq.org/#/location/PORTA%20SAN%20FELICE,PORTA SAN FELICE,Italy,"BOLOGNA,",16,4/25/2020,1:00
+Italy,https://openaq.org/#/location/CASTELLARANO,CASTELLARANO,Italy,"CASTELLARANO,",13,4/25/2020,1:00
+Italy,https://openaq.org/#/location/Allumiere%20-%20v.Aldo%20Moro,Allumiere - v.Aldo Moro,Italy,"Civitavecchia,",13,3/31/2020,0:00
+Italy,https://openaq.org/#/location/Campo%20dell'Oro,Campo dell'Oro,Italy,"Civitavecchia,",9,3/31/2020,0:00
+Italy,https://openaq.org/#/location/Faro,ES0126A,Spain,"Madrid,",,,
+Italy,https://openaq.org/#/location/Fiumaretta,Fiumaretta,Italy,"Civitavecchia,",9,3/31/2020,0:00
+Italy,https://openaq.org/#/location/SARAGAT,SARAGAT,Italy,"COLORNO,",18,4/25/2020,1:00
+Italy,https://openaq.org/#/location/PARCO%20BERTOZZI,PARCO BERTOZZI,Italy,"FAENZA,",15,4/25/2020,1:00
+Italy,https://openaq.org/#/location/VILLA%20FULVIA,VILLA FULVIA,Italy,"FERRARA,",15,4/25/2020,1:00
+Italy,https://openaq.org/#/location/PARCO%20RESISTENZA,PARCO RESISTENZA,Italy,"FORLI',",13,4/25/2020,1:00
+Italy,https://openaq.org/#/location/Cassino,Cassino,Italy,"Frosinone,",15,4/4/2020,0:00
+Italy,https://openaq.org/#/location/Ferentino,Ferentino,Italy,"Frosinone,",17,4/4/2020,0:00
+Jordan,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Amman,US Diplomatic Post: Amman,Jordan,"Amman,",14,4/26/2020,0:00
+Jordan,https://openaq.org/#/location/Amman,US Diplomatic Post: Amman,Jordan,"Amman,",14,4/26/2020,0:00
+Kazakhstan,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Astana,US Diplomatic Post: Astana,Kazakhstan,"Astana,",6,11/13/2019,15:00
+Kazakhstan,https://openaq.org/#/location/Almaty,Almaty,Kazakhstan,"N/A,",8,4/26/2020,1:00
+Kenya,https://openaq.org/#/location/Alliance%20Girls%20High,Alliance Girls High,Kenya,"Nairobi,",5.3,11/21/2018,0:00
+Kenya,https://openaq.org/#/location/Nairobi%20CBD,Nairobi CBD,Kenya,"Nairobi,",0,9/13/2018,23:00
+Kosovo,https://openaq.org/#/location/Drenas,Drenas,Kosovo,"Drenas,",7.559,4/25/2020,22:00
+Kosovo,https://openaq.org/#/location/Gjilan,Gjilan,Kosovo,"Gjilan,",16.341,4/25/2020,22:00
+Kosovo,https://openaq.org/#/location/Hani%20i%20Elezit,Hani i Elezit,i,Hani,13.372,4/22/2020,19:00
+Kosovo,https://openaq.org/#/location/Mitrovice,Mitrovice,Kosovo,"Mitrovice,",17.76,4/25/2020,22:00
+Kosovo,https://openaq.org/#/location/Peje,Peje,Kosovo,"Peje,",18.759,4/25/2020,22:00
+Kosovo,https://openaq.org/#/location/Prishtine%20-%20IHMK,Prishtine - IHMK,Kosovo,"Prishtine,",11.89,4/25/2020,22:00
+Kosovo,https://openaq.org/#/location/Prishtine%2C%20Rilindje,"Prishtine, Rilindje",Kosovo,"Prishtine,",12.677,4/25/2020,22:00
+Kosovo,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Pristina,US Diplomatic Post: Pristina,Kosovo,"Pristina,",14,4/25/2020,23:00
+Kosovo,https://openaq.org/#/location/Prizren,Prizren,Kosovo,"Prizren,",9.976,4/25/2020,22:00
+Kuwait,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Kuwait%20City,US Diplomatic Post: Kuwait City,"City,",Kuwait,45,4/24/2020,11:00
+Kyrgyzstan,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Bishkek,US Diplomatic Post: Bishkek,Kyrgyzstan,"Bishkek,",3,4/23/2020,22:00
+Kyrgyzstan,https://openaq.org/#/location/Bishkek,US Diplomatic Post: Bishkek,Kyrgyzstan,"Bishkek,",3,4/23/2020,22:00
+Lao People's Democratic Republic,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Vientiane,US Diplomatic Post: Vientiane,Lao,"Vientiane,",-999,4/26/2020,0:00
+Lithuania,https://openaq.org/#/location/LT00041,LT00041,Lithuania,"Kaunas,",2.13,4/26/2020,1:00
+Lithuania,https://openaq.org/#/location/LT00044,LT00044,Lithuania,"Kaunas,",20,4/23/2020,1:00
+Lithuania,https://openaq.org/#/location/LT00033,LT00033,Lithuania,"Klaipeda,",6.77,4/24/2020,4:00
+Lithuania,https://openaq.org/#/location/LT00021,LT00021,Lithuania,"Šiauliai,",6.83,4/24/2020,2:00
+Lithuania,https://openaq.org/#/location/LT00051,LT00051,Lithuania,"Utena,",7.8,4/26/2020,1:00
+Lithuania,https://openaq.org/#/location/LT00003,LT00003,Lithuania,"Vilnius,",6.87,4/24/2020,1:00
+Luxembourg,https://openaq.org/#/location/LU0105A,LU0105A,Luxembourg,"Grevenmacher,",16,4/26/2020,0:00
+Luxembourg,https://openaq.org/#/location/LU0101A,LU0101A,Luxembourg,"Luxemburg,",11,4/26/2020,0:00
+Luxembourg,https://openaq.org/#/location/LU0102A,LU0102A,Luxembourg,"Luxemburg,",19,4/26/2020,0:00
+Luxembourg,https://openaq.org/#/location/LU0109A,LU0109A,Luxembourg,"Luxemburg,",9,4/26/2020,0:00
+"Macedonia, the Former Yugoslav Republic of",https://openaq.org/#/location/MK0038A,MK0038A,"Municipality,",Bitola,11.92,4/26/2020,1:00
+"Macedonia, the Former Yugoslav Republic of",https://openaq.org/#/location/MK0047A,MK0047A,"Municipality,",Centar,8.62291,4/26/2020,1:00
+"Macedonia, the Former Yugoslav Republic of",https://openaq.org/#/location/MK0048A,MK0048A,"Municipality,",Karpos,11.1662,4/26/2020,1:00
+Madagascar,https://openaq.org/#/location/Ulaanbaatar,Ulaanbaatar,Madagascar,"N/A,",21,4/25/2020,23:00
+Mali,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Bamako,US Diplomatic Post: Bamako,Mali,"Bamako,",39,4/24/2020,12:00
+Malta,https://openaq.org/#/location/MT00008,MT00008,Malta,"Attard,",8.067,4/25/2020,23:00
+Malta,https://openaq.org/#/location/MT00007,MT00007,Malta,"Gharb,",24.4,12/12/2019,17:00
+Malta,https://openaq.org/#/location/MT00005,MT00005,Malta,"Msida,",5.74,4/25/2020,23:00
+Malta,https://openaq.org/#/location/MT00004,MT00004,(Citta',Zejtun,21.9,8/13/2019,23:00
+Mexico,https://openaq.org/#/location/SPABC14%20COBACH,SPABC14 COBACH,CALIFORNIA,BAJA,4,4/25/2020,23:00
+Mexico,https://openaq.org/#/location/Universidad%20Autonoma,Universidad Autonoma,CALIFORNIA,BAJA,10,4/20/2018,17:00
+Mexico,https://openaq.org/#/location/Camarones,Camarones,"FEDERAL,",DISTRITO,19,4/26/2020,1:00
+Mexico,https://openaq.org/#/location/Hospital%20General%20de,Hospital General de,"FEDERAL,",DISTRITO,14,10/17/2019,22:00
+Mexico,https://openaq.org/#/location/Merced,Merced,"FEDERAL,",DISTRITO,23,4/26/2020,1:00
+Mexico,https://openaq.org/#/location/Pedregal,Pedregal,"FEDERAL,",DISTRITO,15,4/26/2020,1:00
+Mexico,https://openaq.org/#/location/Santa%20Fe,Santa Fe,"FEDERAL,",DISTRITO,22,4/26/2020,1:00
+Mexico,https://openaq.org/#/location/Santiago%20Acahualtepe,Santiago Acahualtepe,"FEDERAL,",DISTRITO,,,
+Mexico,https://openaq.org/#/location/UAM%20Iztapalapa,UAM Iztapalapa,"FEDERAL,",DISTRITO,14,4/26/2020,1:00
+Mexico,https://openaq.org/#/location/UAM%20Xochimilco,UAM Xochimilco,"FEDERAL,",DISTRITO,15,4/26/2020,1:00
+Mexico,https://openaq.org/#/location/Estaci%C3%B3n%20Abasolo,Estación Abasolo,Mexico,"GUANAJUATO,",11.9,4/25/2020,23:00
+Mexico,https://openaq.org/#/location/Estaci%C3%B3n%20Bomberos,Estación Bomberos,Mexico,"GUANAJUATO,",28.2,4/25/2020,23:00
+Mexico,https://openaq.org/#/location/Estaci%C3%B3n%20DIF,Estación DIF,Mexico,"GUANAJUATO,",20.5,4/26/2020,1:00
+Mexico,https://openaq.org/#/location/Estaci%C3%B3n%20Facultad%20de,Estación Facultad de,Mexico,"GUANAJUATO,",100.6,3/21/2020,18:00
+Mexico,https://openaq.org/#/location/Estaci%C3%B3n%20Guanajuato,Estación Guanajuato,Mexico,"GUANAJUATO,",32.5,4/25/2020,23:00
+Mongolia,https://openaq.org/#/location/1-r%20khoroolol,1-r khoroolol,Mongolia,"Ulaanbaatar,",217,3/13/2019,22:45
+Mongolia,https://openaq.org/#/location/Amgalan,Amgalan,Mongolia,"Ulaanbaatar,",181,3/13/2019,23:30
+Mongolia,https://openaq.org/#/location/Baruun%204%20zam,Baruun 4 zam,Mongolia,"Ulaanbaatar,",162,3/13/2019,23:00
+Mongolia,https://openaq.org/#/location/Bayankhoshuu,Bayankhoshuu,Mongolia,"Ulaanbaatar,",137,3/13/2019,19:00
+Mongolia,https://openaq.org/#/location/Bukhiin%20urguu,Bukhiin urguu,Mongolia,"Ulaanbaatar,",48,3/13/2019,23:00
+Mongolia,https://openaq.org/#/location/MNB,MNB,Mongolia,"Ulaanbaatar,",167,3/13/2019,23:30
+Mongolia,https://openaq.org/#/location/Nisekh,Nisekh,Mongolia,"Ulaanbaatar,",81,3/13/2019,23:30
+Mongolia,https://openaq.org/#/location/Tolgoit,Tolgoit,Mongolia,"Ulaanbaatar,",121,3/13/2019,23:30
+Mongolia,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Ulaanbaatar,US Diplomatic Post: Ulaanbaatar,Mongolia,"Ulaanbaatar,",107,4/23/2020,17:00
+Myanmar,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Rangoon,US Diplomatic Post: Rangoon,Myanmar,"Rangoon,",17,4/24/2020,6:30
+Nepal,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Embassy%20Kathmandu,US Diplomatic Post: Embassy Kathmandu,Nepal,"Kathmandu,",28,4/25/2020,20:15
+Nepal,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Phora%20Durbar%20Kathmandu,US Diplomatic Post: Phora Durbar Kathmandu,Nepal,"Kathmandu,",35,4/25/2020,23:15
+Netherlands,https://openaq.org/#/location/Amsterdam-Einsteinweg,Amsterdam-Einsteinweg,Netherlands,"Amsterdam,",3.4,4/26/2020,1:00
+Netherlands,https://openaq.org/#/location/Amsterdam-Hoogtij,Amsterdam-Hoogtij,Netherlands,"Amsterdam,",-999,4/26/2020,1:00
+Netherlands,https://openaq.org/#/location/Amsterdam-Spaarnwoude,Amsterdam-Spaarnwoude,Netherlands,"Amsterdam,",-999,4/26/2020,1:00
+Netherlands,https://openaq.org/#/location/Amsterdam-Stadhouderskade,Amsterdam-Stadhouderskade,Netherlands,"Amsterdam,",2.5,4/26/2020,1:00
+Netherlands,https://openaq.org/#/location/Amsterdam-Van%20Diemenstraat,Amsterdam-Van Diemenstraat,Netherlands,"Amsterdam,",6.1,4/26/2020,1:00
+Netherlands,https://openaq.org/#/location/Amsterdam-Vondelpark,Amsterdam-Vondelpark,Netherlands,"Amsterdam,",5.9,4/26/2020,1:00
+Netherlands,https://openaq.org/#/location/Amsterdam-Westerpark,Amsterdam-Westerpark,Netherlands,"Amsterdam,",8.7,4/26/2020,1:00
+Netherlands,https://openaq.org/#/location/Badhoevedorp-Sloterweg,Badhoevedorp-Sloterweg,Netherlands,"Badhoevedorp,",7.5,4/26/2020,1:00
+Netherlands,https://openaq.org/#/location/Beverwijk%20West-Creutzberglaan,Beverwijk West-Creutzberglaan,"West,",Beverwijk,7.8,4/26/2020,1:00
+Netherlands,https://openaq.org/#/location/Biest%20Houtakker-Biestsestraat,Biest Houtakker-Biestsestraat,"Houtakker,",Biest,7.0046,4/26/2020,1:00
+Netherlands,https://openaq.org/#/location/Botlek-Spoortunnel,Botlek-Spoortunnel,Netherlands,"Botlek,",-995,3/24/2016,9:00
+Netherlands,https://openaq.org/#/location/Breda-Bastenakenstraat,Breda-Bastenakenstraat,Netherlands,"Breda,",6.8233,4/26/2020,1:00
+Netherlands,https://openaq.org/#/location/Breda-Tilburgseweg,Breda-Tilburgseweg,Netherlands,"Breda,",7.13004,4/26/2020,1:00
+Netherlands,https://openaq.org/#/location/Breukelen-Snelweg,Breukelen-Snelweg,Netherlands,"Breukelen,",6.1912,4/26/2020,1:00
+Netherlands,https://openaq.org/#/location/Cabauw-Wielsekade,Cabauw-Wielsekade,Netherlands,"Cabauw,",1.07462,4/26/2020,1:00
+Nigeria,https://openaq.org/#/location/SPARTAN%20-%20Ilorin%20University,SPARTAN - Ilorin University,Nigeria,"Ilorin,",4.1,10/28/2015,17:00
+Norway,https://openaq.org/#/location/Bekkestua,Bekkestua,Norway,"Bærum,",3.8,4/25/2020,21:00
+Norway,https://openaq.org/#/location/Eilif%20Dues%20vei,Eilif Dues vei,Norway,"Bærum,",3.1,4/25/2020,21:00
+Norway,https://openaq.org/#/location/Danmarks%20plass,Danmarks plass,Norway,"Bergen,",3.831686,4/25/2020,21:00
+Norway,https://openaq.org/#/location/Klosterhaugen,Klosterhaugen,Norway,"Bergen,",3.618919,4/25/2020,21:00
+Norway,https://openaq.org/#/location/Loddefjord,Loddefjord,Norway,"Bergen,",3.38755,4/25/2020,21:00
+Norway,https://openaq.org/#/location/R%C3%A5dal,Rådal,Norway,"Bergen,",3.198753,4/25/2020,21:00
+Norway,https://openaq.org/#/location/R%C3%A5dhuset,Rådhuset,Norway,"Bergen,",19.5,1/4/2018,12:00
+Norway,https://openaq.org/#/location/Rolland%2C%20%C3%85sane,"Rolland, Åsane",Norway,"Bergen,",3.067956,4/25/2020,21:00
+Norway,https://openaq.org/#/location/Olav%20V%20gate,Olav V gate,Norway,"Bodø,",7.195842,4/25/2020,21:00
+Norway,https://openaq.org/#/location/Ringsakervegen,Ringsakervegen,Norway,"Brumunddal,",3.1,4/25/2020,21:00
+Norway,https://openaq.org/#/location/Backeparken,Backeparken,Norway,"Drammen,",6.6,4/26/2020,0:00
+Norway,https://openaq.org/#/location/V%C3%A5rveien,Vårveien,Norway,"Drammen,",3.3,4/24/2020,12:00
+Norway,https://openaq.org/#/location/Leiret,Leiret,Norway,"Elverum,",2.144814,4/25/2020,21:00
+Norway,https://openaq.org/#/location/Nygaardsgata,Nygaardsgata,Norway,"Fredrikstad,",2.211836,4/25/2020,21:00
+Norway,https://openaq.org/#/location/St.Croix,St.Croix,Norway,"Fredrikstad,",3.1,4/25/2020,21:00
+Pakistan,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Islamabad,US Diplomatic Post: Islamabad,Pakistan,"Islamabad,",27,4/26/2020,1:00
+Pakistan,https://openaq.org/#/location/Karachi,Karachi,Pakistan,"N/A,",22.8,4/26/2020,1:00
+Pakistan,https://openaq.org/#/location/Lahore,Lahore,Pakistan,"N/A,",103,4/26/2020,1:00
+Pakistan,https://openaq.org/#/location/Peshawar,Peshawar,Pakistan,"N/A,",37,4/26/2020,1:00
+Peru,https://openaq.org/#/location/ATE,Kematen,Austria,"Austria,",,,
+Peru,https://openaq.org/#/location/CAMPO%20DE%20MARTE,CAMPO DE MARTE,Peru,"Lima,",8.23,4/25/2020,22:00
+Peru,https://openaq.org/#/location/CARABAYLLO,CARABAYLLO,Peru,"Lima,",11.38,4/25/2020,21:00
+Peru,https://openaq.org/#/location/HUACHIPA,HUACHIPA,Peru,"Lima,",0,10/13/2018,22:00
+Peru,https://openaq.org/#/location/PUENTE%20PIEDRA,PUENTE PIEDRA,Peru,"Lima,",0,10/13/2018,22:00
+Peru,https://openaq.org/#/location/SAN%20BORJA,SAN BORJA,Peru,"Lima,",10.49,4/25/2020,22:00
+Peru,https://openaq.org/#/location/SAN%20JUAN%20DE%20LURIGANCHO,SAN JUAN DE LURIGANCHO,Peru,"Lima,",12.78,4/25/2020,22:00
+Peru,https://openaq.org/#/location/SAN%20MARTIN%20DE%20PORRES,SAN MARTIN DE PORRES,Peru,"Lima,",16,3/12/2020,17:00
+Peru,https://openaq.org/#/location/SANTA%20ANITA,SANTA ANITA,Peru,"Lima,",31.09,10/13/2018,23:00
+Peru,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Lima,US Diplomatic Post: Lima,Peru,"Lima,",12,4/25/2020,23:00
+Peru,https://openaq.org/#/location/VILLA%20MARIA%20DEL%20TRIUNFO,VILLA MARIA DEL TRIUNFO,Peru,"Lima,",0,4/26/2020,1:00
+Philippines,https://openaq.org/#/location/SPARTAN%20-%20Manila%20Observatory,SPARTAN - Manila Observatory,Philippines,"Manila,",9.7,5/13/2014,5:00
+Poland,https://openaq.org/#/location/August%C3%B3w-Miejska,Augustów-Miejska,Poland,"Augustów,",3.7,4/26/2020,1:00
+Poland,https://openaq.org/#/location/Bia%C5%82ystok-Miejska,Białystok-Miejska,Poland,"Białystok,",3,4/26/2020,1:00
+Poland,https://openaq.org/#/location/Bielsko-Bia%C5%82a%2C%20ul.Partyzant%C3%B3w,"Bielsko-Biała, ul.Partyzantów",Poland,"Bielsko-Biała,",25.708,4/26/2020,0:00
+Poland,https://openaq.org/#/location/WIO%C5%9A%20Biskupiec-Mobilna,WIOŚ Biskupiec-Mobilna,Poland,"Biskupiec,",5.52214,4/26/2020,1:00
+Poland,https://openaq.org/#/location/Borsukowizna-Wiejska,Borsukowizna-Wiejska,Poland,"Borsukowizna,",2.7,4/26/2020,1:00
+Poland,https://openaq.org/#/location/Bydgoszcz%20Plac%20Pozna%C5%84ski,Bydgoszcz Plac Poznański,Poland,"Bydgoszcz,",14.6,4/26/2020,1:00
+Poland,https://openaq.org/#/location/Bydgoszcz%20Warszawska,Bydgoszcz Warszawska,Poland,"Bydgoszcz,",13.2,4/26/2020,1:00
+Poland,https://openaq.org/#/location/Che%C5%82mno%2C%20%C5%81unawska%203A,"Chełmno, Łunawska 3A",Poland,"Chełmno,",17.3,4/26/2020,1:00
+Poland,https://openaq.org/#/location/D%C4%99bica-Grottgera-WIOS,Dębica-Grottgera-WIOS,Poland,"Dębica,",7.02399,4/26/2020,1:00
+Poland,https://openaq.org/#/location/Duszniki-Zdr%C3%B3j,Duszniki-Zdrój,Poland,"Duszniki-Zdrój,",29.0594,12/31/2019,23:00
+Poland,https://openaq.org/#/location/WIO%C5%9A%20Elbl%C4%85g%20ul.%20Ba%C5%BCy%C5%84skiego,WIOŚ Elbląg ul. Bażyńskiego,Poland,"Elbląg,",9.38245,4/26/2020,1:00
+Poland,https://openaq.org/#/location/AM8%20Gda%C5%84sk%20Wrzeszcz,AM8 Gdańsk Wrzeszcz,Poland,"Gdańsk,",16.7292,4/26/2020,0:00
+Poland,https://openaq.org/#/location/Gocza%C5%82kowice%20Zdr%C3%B3j%2C%20ul.%20Parkowa,"Goczałkowice Zdrój, ul. Parkowa",Poland,"Goczałkowice-Zdrój,",26.6283,4/26/2020,1:00
+Poland,https://openaq.org/#/location/WIO%C5%9A%20Go%C5%82dap-Uzdrowisko,WIOŚ Gołdap-Uzdrowisko,Poland,"Gołdap,",11.4357,12/14/2019,6:00
+Poland,https://openaq.org/#/location/Gorz%C3%B3w%20Wlkp.%20ul.%20Kosynier%C3%B3w%20Gdy%C5%84skich,Gorzów Wlkp. ul. Kosynierów Gdyńskich,"Wielkopolski,",Gorzów,5.46512,4/26/2020,0:00
+Portugal,https://openaq.org/#/location/PT02004,PT02004,Portugal,"Aveiro,",23,4/26/2020,0:00
+Portugal,https://openaq.org/#/location/PT02020,PT02020,"Branco,",Castelo,10,4/26/2020,0:00
+Portugal,https://openaq.org/#/location/PT04006,PT04006,Portugal,"Évora,",10,4/25/2020,22:00
+Portugal,https://openaq.org/#/location/PT05007,PT05007,Portugal,"Faro,",16.3,4/25/2020,23:00
+Portugal,https://openaq.org/#/location/PT05012,PT05012,Portugal,"Faro,",0.3,4/24/2020,8:00
+Portugal,https://openaq.org/#/location/PT06004,PT06004,da,Ilha,2.7,4/25/2020,23:00
+Portugal,https://openaq.org/#/location/PT06005,PT06005,da,Ilha,,,
+Portugal,https://openaq.org/#/location/PT06008,PT06008,da,Ilha,,,
+Portugal,https://openaq.org/#/location/PT07001,PT07001,do,Ilha,103.4,4/18/2020,14:00
+Portugal,https://openaq.org/#/location/PT02019,PT02019,Portugal,"Leiria,",9,4/26/2020,0:00
+Portugal,https://openaq.org/#/location/PT03071,PT03071,Portugal,"Lisboa,",10.8,4/22/2020,15:00
+Portugal,https://openaq.org/#/location/PT03072,PT03072,Portugal,"Lisboa,",9.9,4/16/2020,15:00
+Portugal,https://openaq.org/#/location/PT03089,PT03089,Portugal,"Lisboa,",11.3,4/23/2020,10:00
+Portugal,https://openaq.org/#/location/PT03102,PT03102,Portugal,"Lisboa,",2,4/15/2020,10:00
+Portugal,https://openaq.org/#/location/PT01024,PT01024,Portugal,"Porto,",0,12/24/2019,17:00
+Saudi Arabia,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Dharan,US Diplomatic Post: Dharan,Saudi,"Dharan,",23,7/16/2019,20:00
+Saudi Arabia,https://openaq.org/#/location/Dhahran,Dhahran,Saudi,"N/A,",40,4/26/2020,1:00
+Serbia,https://openaq.org/#/location/RS0032A,RS0032A,"Beograd,",Grad,10.79517,4/26/2020,1:00
+Singapore,https://openaq.org/#/location/SPARTAN%20-%20NUS,SPARTAN - NUS,Singapore,"Singapore,",282.9,9/25/2015,2:00
+Slovakia,https://openaq.org/#/location/SK0022A,SK0022A,"kraj,",Banskobystrický,10.566,4/26/2020,1:00
+Slovakia,https://openaq.org/#/location/SK0025A,SK0025A,"kraj,",Banskobystrický,20.86,4/26/2020,1:00
+Slovakia,https://openaq.org/#/location/SK0214A,SK0214A,"kraj,",Banskobystrický,8.051,4/26/2020,1:00
+Slovakia,https://openaq.org/#/location/SK0262A,SK0262A,"kraj,",Banskobystrický,6.1872,4/26/2020,1:00
+Slovakia,https://openaq.org/#/location/SK0263A,SK0263A,"kraj,",Banskobystrický,10.402,4/26/2020,1:00
+Slovakia,https://openaq.org/#/location/SK0268A,SK0268A,"kraj,",Banskobystrický,11.883,4/26/2020,1:00
+Slovakia,https://openaq.org/#/location/SK0001A,SK0001A,"kraj,",Bratislavský,3.6403,4/26/2020,1:00
+Slovakia,https://openaq.org/#/location/SK0002A,SK0002A,"kraj,",Bratislavský,2.1678,4/26/2020,1:00
+Slovakia,https://openaq.org/#/location/SK0004A,SK0004A,"kraj,",Bratislavský,11.911,4/26/2020,1:00
+Slovakia,https://openaq.org/#/location/SK0048A,SK0048A,"kraj,",Bratislavský,8.9599,4/26/2020,1:00
+Slovakia,https://openaq.org/#/location/SK0407A,SK0407A,"kraj,",Bratislavský,8.5623,4/26/2020,1:00
+Slovakia,https://openaq.org/#/location/SK0018A,SK0018A,"kraj,",Košický,7.9813,4/26/2020,1:00
+Slovakia,https://openaq.org/#/location/SK0030A,SK0030A,"kraj,",Košický,14.831,4/26/2020,1:00
+Slovakia,https://openaq.org/#/location/SK0264A,SK0264A,"kraj,",Košický,7.4316,4/26/2020,1:00
+Slovakia,https://openaq.org/#/location/SK0265A,SK0265A,"kraj,",Košický,11.11,4/26/2020,1:00
+Spain,https://openaq.org/#/location/ES1138A,ES1138A,"Coruña,",A,11,12/26/2019,16:00
+Spain,https://openaq.org/#/location/ES1867A,ES1867A,"Coruña,",A,2,4/11/2020,10:00
+Spain,https://openaq.org/#/location/ES1868A,ES1868A,"Coruña,",A,4,4/11/2020,10:00
+Spain,https://openaq.org/#/location/ES1901A,ES1901A,"Coruña,",A,10,4/11/2020,10:00
+Spain,https://openaq.org/#/location/ES1535A,ES1535A,Spain,"Albacete,",6,4/22/2020,14:00
+Spain,https://openaq.org/#/location/ES1914A,ES1914A,Spain,"Alicante/Alacant,",1,4/19/2020,19:00
+Spain,https://openaq.org/#/location/ES1968A,ES1968A,Spain,"Alicante/Alacant,",1,4/21/2020,10:00
+Spain,https://openaq.org/#/location/ES2008A,ES2008A,Spain,"Alicante/Alacant,",1,4/21/2020,10:00
+Spain,https://openaq.org/#/location/ES1489A,ES1489A,Spain,"Araba/Álava,",5,4/24/2020,5:00
+Spain,https://openaq.org/#/location/ES1492A,ES1492A,Spain,"Araba/Álava,",15,4/24/2020,4:00
+Spain,https://openaq.org/#/location/ES1502A,ES1502A,Spain,"Araba/Álava,",10,4/24/2020,5:00
+Spain,https://openaq.org/#/location/ES1673A,ES1673A,Spain,"Araba/Álava,",7,4/24/2020,5:00
+Spain,https://openaq.org/#/location/ES0825A,ES0825A,Spain,"Asturias,",14,4/15/2020,9:00
+Spain,https://openaq.org/#/location/ES0880A,ES0880A,Spain,"Asturias,",10,4/24/2020,3:00
+Spain,https://openaq.org/#/location/ES1269A,ES1269A,Spain,"Asturias,",21,4/24/2020,3:00
+Sri Lanka,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Colombo,US Diplomatic Post: Colombo,Sri,"Colombo,",9,4/23/2020,15:30
+Sweden,https://openaq.org/#/location/Hornsgatan,Hornsgatan,Sweden,"Stockholm,",28.4445,10/13/2018,23:00
+Sweden,https://openaq.org/#/location/Lilla%20Essingen%20(E4%2FE20),Lilla Essingen (E4/E20),Sweden,"Stockholm,",25.5957,10/13/2018,23:00
+Sweden,https://openaq.org/#/location/Sveav%C3%A4gen,Sveavägen,Sweden,"Stockholm,",27.7826,10/13/2018,23:00
+Sweden,https://openaq.org/#/location/Uppsala%20Kungsgatan,Uppsala Kungsgatan,Sweden,"Uppsala,",26.826,10/13/2018,23:00
+Switzerland,https://openaq.org/#/location/CH0008A,CH0008A,Switzerland,"Basel-Landschaft,",6.9816,4/26/2020,1:00
+Switzerland,https://openaq.org/#/location/CH0031A,CH0031A,Switzerland,"Bern,",6.6741,4/26/2020,1:00
+Switzerland,https://openaq.org/#/location/Beijing,Beijing,Switzerland,"N/A,",109,4/25/2020,23:00
+Switzerland,https://openaq.org/#/location/Chengdu,Chengdu,Switzerland,"N/A,",52,4/25/2020,22:00
+Switzerland,https://openaq.org/#/location/Guangzhou,Guangzhou,Switzerland,"N/A,",60,4/25/2020,22:00
+Switzerland,https://openaq.org/#/location/Shanghai,Shanghai,Switzerland,"N/A,",28,4/26/2020,2:00
+Switzerland,https://openaq.org/#/location/Shenyang,Shenyang,Switzerland,"N/A,",92,4/25/2020,22:00
+Switzerland,https://openaq.org/#/location/CH0005R,CH0005R,Switzerland,"Schwyz,",8.693,4/26/2020,1:00
+Switzerland,https://openaq.org/#/location/CH0011A,CH0011A,Switzerland,"Ticino,",9.4372,4/26/2020,1:00
+Switzerland,https://openaq.org/#/location/CH0033A,CH0033A,Switzerland,"Ticino,",7.082,4/26/2020,1:00
+Switzerland,https://openaq.org/#/location/CH0002R,CH0002R,Switzerland,"Vaud,",7.1622,4/26/2020,1:00
+Switzerland,https://openaq.org/#/location/CH0005A,CH0005A,Switzerland,"Zürich,",9.7917,4/26/2020,1:00
+Switzerland,https://openaq.org/#/location/CH0010A,CH0010A,Switzerland,"Zürich,",8.4071,4/26/2020,1:00
+Taiwan,https://openaq.org/#/location/Nantou,Nantou,Taiwan,"南投縣,",2,6/14/2017,11:00
+Taiwan,https://openaq.org/#/location/Puli,Puli,Taiwan,"南投縣,",3,6/14/2017,11:00
+Taiwan,https://openaq.org/#/location/Zhushan,Zhushan,Taiwan,"南投縣,",16,4/25/2020,22:00
+Taiwan,https://openaq.org/#/location/Chiayi,Chiayi,Taiwan,"嘉義市,",52,4/25/2020,22:00
+Taiwan,https://openaq.org/#/location/Puzi,Puzi,Taiwan,"嘉義縣,",32,4/25/2020,22:00
+Taiwan,https://openaq.org/#/location/Xingang,Xingang,Taiwan,"嘉義縣,",5,6/14/2017,11:00
+Taiwan,https://openaq.org/#/location/Keelung,Keelung,Taiwan,"基隆市,",10,4/26/2020,1:00
+Taiwan,https://openaq.org/#/location/Dongshan,Dongshan,Taiwan,"宜蘭縣,",3,6/14/2017,11:00
+Taiwan,https://openaq.org/#/location/Yilan,Yilan,Taiwan,"宜蘭縣,",4,6/14/2017,11:00
+Taiwan,https://openaq.org/#/location/Chaozhou,Chaozhou,Taiwan,"屏東縣,",4,6/14/2017,11:00
+Taiwan,https://openaq.org/#/location/Hengchun,Hengchun,Taiwan,"屏東縣,",9,6/13/2017,1:00
+Taiwan,https://openaq.org/#/location/Pingtung,Pingtung,Taiwan,"屏東縣,",28,4/25/2020,22:00
+Taiwan,https://openaq.org/#/location/Changhua,Changhua,Taiwan,"彰化縣,",26,4/25/2020,22:00
+Taiwan,https://openaq.org/#/location/Erlin,AT30599,Austria,"Niederösterreich,",,,
+Taiwan,https://openaq.org/#/location/Xianxi,Xianxi,Taiwan,"彰化縣,",18,4/25/2020,22:00
+Tajikistan,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Dushanbe,US Diplomatic Post: Dushanbe,Tajikistan,"Dushanbe,",21,4/26/2020,0:00
+Turkmenistan,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Ashgabat,US Diplomatic Post: Ashgabat,Turkmenistan,"Ashgabat,",-999,4/25/2020,21:00
+Uganda,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Kampala,US Diplomatic Post: Kampala,Uganda,"Kampala,",23,4/26/2020,2:00
+United Arab Emirates,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Abu%20Dhabi,US Diplomatic Post: Abu Dhabi,"Dhabi,",Abu,13,4/26/2020,1:00
+United Arab Emirates,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Dubai,US Diplomatic Post: Dubai,United,"Dubai,",32,4/26/2020,2:00
+United Arab Emirates,https://openaq.org/#/location/Abu%20Dhabi,US Diplomatic Post: Abu Dhabi,"Dhabi,",Abu,13,4/26/2020,1:00
+United Kingdom,https://openaq.org/#/location/Aberdeen,Aberdeen,United,"Aberdeen,",10,4/26/2020,2:00
+United Kingdom,https://openaq.org/#/location/Auchencorth%20Moss,Auchencorth Moss,United,"Auchencorth,",15,4/26/2020,2:00
+United Kingdom,https://openaq.org/#/location/Barnstaple%20A39,Barnstaple A39,United,"Barnstaple,",23,4/26/2020,2:00
+United Kingdom,https://openaq.org/#/location/Belfast%20Centre,Belfast Centre,United,"Belfast,",25,4/26/2020,2:00
+United Kingdom,https://openaq.org/#/location/Birmingham%20Acocks%20Green,Birmingham Acocks Green,United,"Birmingham,",15,4/26/2020,2:00
+United Kingdom,https://openaq.org/#/location/Birmingham%20Tyburn,Birmingham Tyburn,United,"Birmingham,",3,6/6/2017,18:00
+United Kingdom,https://openaq.org/#/location/Birmingham%20Tyburn%20Roadside,Birmingham Tyburn Roadside,United,"Birmingham,",15,9/7/2016,17:00
+United Kingdom,https://openaq.org/#/location/Blackpool%20Marton,Blackpool Marton,United,"Blackpool,",24,4/26/2020,2:00
+United Kingdom,https://openaq.org/#/location/Bournemouth,Bournemouth,United,"Bournemouth,",21,4/26/2020,2:00
+United Kingdom,https://openaq.org/#/location/Brighton%20Preston%20Park,Brighton Preston Park,United,"Brighton,",11,4/26/2020,2:00
+United Kingdom,https://openaq.org/#/location/Bristol%20St%20Paul's,Bristol St Paul's,United,"Bristol,",20,4/26/2020,2:00
+United Kingdom,https://openaq.org/#/location/Cardiff%20Centre,Cardiff Centre,United,"Cardiff,",21,4/26/2020,2:00
+United Kingdom,https://openaq.org/#/location/Carlisle%20Roadside,Carlisle Roadside,United,"Carlisle,",22,4/26/2020,2:00
+United Kingdom,https://openaq.org/#/location/Greenock%20A8%20Roadside,Greenock A8 Roadside,"Scotland,",Central,14,4/26/2020,2:00
+United Kingdom,https://openaq.org/#/location/Chatham%20Roadside,Chatham Roadside,United,"Chatham,",12,4/26/2020,2:00
+United States,https://openaq.org/#/location/Cle%20Elum_Mobile,Cle Elum_Mobile,United,"007,",7,1/3/2019,20:00
+United States,https://openaq.org/#/location/Leavenworth_Mobile,Leavenworth_Mobile,United,"007,",10,11/9/2018,20:00
+Uzbekistan,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Tashkent,US Diplomatic Post: Tashkent,Uzbekistan,"Tashkent,",21,4/25/2020,21:00
+Viet Nam,https://openaq.org/#/location/SPARTAN%20-%20Vietnam%20Acad.%20Sci.,SPARTAN - Vietnam Acad. Sci.,Viet,"Hanoi,",36.9,8/21/2015,3:00
+Viet Nam,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Hanoi,US Diplomatic Post: Hanoi,Viet,"Hanoi,",34,4/26/2020,0:00
+Viet Nam,https://openaq.org/#/location/US%20Diplomatic%20Post%3A%20Ho%20Chi%20Minh%20City,US Diplomatic Post: Ho Chi Minh City,Chi,Ho,44,4/26/2020,1:00
