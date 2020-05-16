@@ -1,6 +1,10 @@
 # SeleniumPythonProject
+
 Web scraping of www.openaq.org for open source data to collect air pollution data from different locations in the world. 
 Tools used - **Selenium Python**.
+
+I published a blog post about this project on the Towards Data Science blog 
+https://towardsdatascience.com/step-by-step-web-scraping-project-using-selenium-in-python-3be887e6e35c
 
 This project was done during the Graduate Studies in Data Science at the University of Warsaw 
 together with Jorge Bueno Perez and Noam Shmuel.
